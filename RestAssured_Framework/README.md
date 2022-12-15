@@ -49,28 +49,6 @@ You can fetch the value using data.get("columnnameinexcel") Refer the already ex
 
 *******************************************************************************
 
-I have used some dummy API's for testing purpose. 
-
-If you trying to run the BestBuyAPI test cases, make sure you configure as per below docs and make sure that the server is up and running on http://localhost://3030
-
-https://github.com/BestBuy/api-playground
-
-Make sure you have NodeJS installed (we require version 4 or newer).
-
-git clone https://github.com/bestbuy/api-playground/
-
-cd api-playground
-
-npm install
-
-npm start
 
 
-******************************************************************************
-
-
-Please feel to report any issue or PR for any improvements. Reach me at mech.amuthansakthivel@gmail.com
-
-To get trainings on how to create this framework from scratch or to get recordings on sessions , contact mech.amuthansakthivel@gmail.com
-Please feel to report any issue or PR for any improvements.
 
