@@ -1,6 +1,5 @@
 # Functional UI Automation Framework - Open Cart Website
 
-This UI Automation framework repository has some basic functional tests for [Open Cart UI Website](https://https://naveenautomationlabs.com/opencart/). It covers the login, add products to cart and checkout cart functionality. The reports of test execution published in [Github Page](https://nayeemjohny.github.io/open-cart-ui-automation-playwright/) when the tests are executed from Github Actions.
 
 This framework built with the following:
 
@@ -16,8 +15,6 @@ This framework built with the following:
 | CI                | **Github Actions**    |
 | Remote Execution  | **Selenium Grid**     |
 
-
-**Github page with javadoc and Test Execution Report can be found [here](https://nayeemjohny.github.io/open-cart-ui-automation-playwright/)**
 
 
 #
@@ -103,16 +100,7 @@ By default, the test will be executed on Ubuntu runner with headless mode.
     
 * [docker-compose file](./selenium-grid-docker-compose.yml) to start the selenium grid with hub and node. It will pull latest images of hub, browsers, chrome, chromium, firefox and edge. Start the containers using docker-compose command and while triggering the test specify the grid node url in order the scripts to run on browsers with headed mode.
 
-#
-Please find the changelog for the latest updates [changelog](./changelog.md)
 
-# 
-<span style="float:right;" >
-Prepared by
-<a href= "https://www.linkedin.com/in/nayeemjohny/">
-Nayeem John
-</a>
-</span>
 
 
  
